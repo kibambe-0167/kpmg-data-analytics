@@ -12,7 +12,6 @@
 # job_title
 - there is more than 500 missing(nan) job titles in the dataset.
 
-
 # job_industry_category
 - there is a lot of missing(nan) values in the datasets.
 - feature sample distribution: {'Telecommunications': 72,
